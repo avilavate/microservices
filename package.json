@@ -1,0 +1,27 @@
+{
+  "name": "seneca-microservice",
+  "version": "1.0.0",
+  "description": "A demo decsribing Seneca based NodeJS Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avilavate/microservices.git"
+  },
+  "keywords": [
+    "Microservices",
+    "Node",
+    "Seneca"
+  ],
+  "author": "Avil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avilavate/microservices/issues"
+  },
+  "homepage": "https://github.com/avilavate/microservices#readme",
+  "dependencies": {
+    "seneca": "^3.3.0"
+  }
+}
